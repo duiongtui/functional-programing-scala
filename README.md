@@ -8,5 +8,5 @@
 
 ## Progress
 
-- Sat, 12/07/2019, create repository, review functional programing paragigm from [Programming Languages: Principles and Paradigms](https://www.amazon.com/Programming-Languages-Principles-Paradigms-Undergraduate/dp/1848829132), i want to understand functional programing from man who developed a language point of view. Understand concept beforce start implement.
+- Sat, 12/07/2019, create repository, review functional programing paradigm from [Programming Languages: Principles and Paradigms](https://www.amazon.com/Programming-Languages-Principles-Paradigms-Undergraduate/dp/1848829132), i want to understand functional programing from man who developed a language point of view. Understand concept beforce start implement.
 
