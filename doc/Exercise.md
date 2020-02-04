@@ -1,4 +1,5 @@
 ## Ha noi tower
+- recursive solution
 
 
 ## matrix chain multiplication
