@@ -1,6 +1,6 @@
 val commonSettings = Seq(
   name := "fp",
-  scalaVersion := "2.12.10"
+  scalaVersion := "2.13.1"
 )
 
 lazy val cats = "org.typelevel" %% "cats-core" % "2.0.0"
