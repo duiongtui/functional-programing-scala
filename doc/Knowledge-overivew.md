@@ -1,9 +1,5 @@
 # Functional programing - Lập trình hàm
 
-*I write this review in vietnamese, my mother language is vietnamese, the book i read is in english, so i will write my knowledge in vietnamese*
-
-*Tóm tắt có sử dụng các thuật ngữ tiếng anh, có giải nghĩa nếu lần đầu sử dụng. mình hạn chế dùng các từ tiếng việt, không phải vì tiếng việt không hay, mà để quen với các khái niệm, phục vụ mục đích tra cứu, đọc tài liệu tiếng anh khác sau này.*
-
 ## State - Trạng thái
 
 - Mô hình máy Von Neumann
@@ -15,4 +11,3 @@
 High-order function và đệ quy là 2 thành phần chính của mô hình stateless(không trạng thái). Và vâng, lập trình hàm
 
 ## Exression and function
-Hàm là biểu thức
