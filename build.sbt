@@ -3,12 +3,10 @@ val commonSettings = Seq(
   scalaVersion := "2.13.1"
 )
 
-lazy val cats = "org.typelevel" %% "cats-core" % "2.0.0"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.0"
 
-val dependencies = Seq()
-lazy val fp = (project in file("code"))
+lazy val fp = (project in file("."))
   .enablePlugins(JavaAppPackaging)
   .settings(
-    commonSettings,
-    libraryDependencies ++= dependencies
+    commonSettings
   )

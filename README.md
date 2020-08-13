@@ -1,12 +1,6 @@
 # functional-programing-scala
 
 ## Overview
-
-
-## Running code
-- sbt
-- fp/run
-- fp/stage
-
+https://github.com/sangoisanga/milewski-ctfp-pdf
 
 ## Progress
